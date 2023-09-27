@@ -1,0 +1,9 @@
+ERROR: Cannot find web element located by 'By.xpath: //textarea[@name='addr']'. Root cause: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=117.0.2045.41)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2f3d0cbbfad28c27b5baecc73e6020c0, findElement {using=xpath, value=//textarea[@name='addr']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.41, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57152}, msedge: {msedgedriverVersion: 117.0.2045.43 (fe8879882c1b..., userDataDir: C:\Users\tieuh\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57152/devtoo..., se:cdpVersion: 117.0.2045.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f3d0cbbfad28c27b5baecc73e6020c0

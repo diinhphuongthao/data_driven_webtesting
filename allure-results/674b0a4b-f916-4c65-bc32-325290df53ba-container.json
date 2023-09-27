@@ -1,0 +1,1 @@
+{"uuid":"674b0a4b-f916-4c65-bc32-325290df53ba","name":"test.BaseTest.afterMethod","children":["f6d6d9d7-9261-401c-95b1-8ccebbd79989"],"description":"","befores":[],"afters":[{"name":"afterMethod","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1693390429038,"stop":1693390429039}],"start":1693390429037,"stop":1693390429039}

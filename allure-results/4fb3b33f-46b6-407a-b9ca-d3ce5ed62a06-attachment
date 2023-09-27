@@ -1,0 +1,1 @@
+ERROR: Cannot find web element located by 'By.xpath: //div[contains(@class,'button-common close-button') or @id='dismiss-button']'. Root cause: Expected condition failed: waiting for untils.keywords.WebUI$1@5e198c40 (tried for 60 second(s) with 5000 milliseconds interval)

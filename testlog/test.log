@@ -1,0 +1,7 @@
+INFO  | 2023-09-27 13:55:09 | [main] untils.helper.FileHelper (FileHelper.java:getDataJSONFilePath:24) - D:\VTI\Excel_Test_Data_Repository\src\main\resources\testdata\EditCustomerTest.json
+INFO  | 2023-09-27 13:55:09 | [main] testng.log4testng.Logger (Logger.java:info:112) - [TestNG] Running:
+  D:\VTI\Excel_Test_Data_Repository\src\main\resources\test\EditCustomerTest.xml
+
+INFO  | 2023-09-27 13:55:09 | [main] untils.keywords.WebUI (WebUI.java:openBrowser:42) - Launching EDGE
+INFO  | 2023-09-27 13:55:10 | [main] bonigarcia.wdm.WebDriverManager (WebDriverManager.java:logSeekRepo:1564) - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+INFO  | 2023-09-27 13:55:11 | [main] bonigarcia.wdm.WebDriverManager (WebDriverManager.java:exportDriver:1265) - Exporting webdriver.gecko.driver as C:\Users\tieuh\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe

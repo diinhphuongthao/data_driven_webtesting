@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://test.org/testng-1.0.dtd">
+<suite name="Suite Demo">
+    <test name="TestNG Demo">
+        <parameter name="browser" value="Edge"></parameter>
+        <groups>
+            <run>
+                <include name="functiontests"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="demoqa.test.UploadFileTest"></class>
+        </classes>
+    </test>
+</suite>

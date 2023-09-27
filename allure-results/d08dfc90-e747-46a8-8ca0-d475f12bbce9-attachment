@@ -1,0 +1,1 @@
+INFO: Finding web element located by 'By.xpath: //div[contains(@class,'button-common close-button') or @id='dismiss-button']'

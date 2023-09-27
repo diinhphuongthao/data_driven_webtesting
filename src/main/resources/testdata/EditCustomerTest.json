@@ -1,0 +1,71 @@
+{
+  "EC001": {
+    "error_message": "Customer ID is required"
+  },
+  "EC002": {
+    "customer_id": "48896aa",
+    "error_message": "Characters are not allowed"
+  },
+  "EC003": {
+    "customer_id": "48896@",
+    "error_message": "Special characters are not allowed"
+  },
+  "EC004": {
+    "customer_id": "7594",
+    "customer_name": "Customer Name"
+  },
+  "EC005": {
+    "error_message": "Address Field must not be blank"
+  },
+  "EC006": {
+    "error_message": "City Field must not be blank"
+  },
+  "EC007": {
+    "customer_city": "hcm12",
+    "error_message": "Numbers are not allowed"
+  },
+  "EC008": {
+    "customer_city": "hcm12@@",
+    "error_message": "Special characters are not allowed"
+  },
+  "EC009": {
+    "error_message": "State must not be blank"
+  },
+  "EC010": {
+    "customer_state": "1234",
+    "error_message": "Numbers are not allowed"
+  },
+  "EC011": {
+    "customer_state": "state@",
+    "error_message": "Special characters are not allowed"
+  },
+  "EC012": {
+    "error_message": "PIN Code must not be blank"
+  },
+  "EC013": {
+    "customer_pin": "1234",
+    "error_message": "PIN Code must have 6 Digits"
+  },
+  "EC014": {
+    "customer_pin": "1234567",
+    "error_message": "PIN Code must have 6 Digits"
+  },
+  "EC015": {
+    "customer_pin": "!@",
+    "error_message": "Special characters are not allowed"
+  },
+  "EC016": {
+    "error_message": "Mobile no must not be blank"
+  },
+  "EC017": {
+    "customer_phone": "!88@@",
+    "error_message": "Special characters are not allowed"
+  },
+  "EC018": {
+    "error_message": "Email-ID must not be blank"
+  },
+  "EC019": {
+    "customer_mail": "guru99@gmail",
+    "error_message": "Email-ID is not valid"
+  }
+}

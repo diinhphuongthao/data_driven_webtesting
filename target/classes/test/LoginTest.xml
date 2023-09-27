@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Demo">
+    <test name="Smoke TestNG Demo" >
+        <parameter name="browser" value="Edge"/>
+        <classes>
+            <class name="guru99.test.LoginTest" />
+        </classes>
+    </test>
+</suite>

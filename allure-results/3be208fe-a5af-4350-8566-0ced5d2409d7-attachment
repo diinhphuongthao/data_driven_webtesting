@@ -1,0 +1,9 @@
+ERROR: Cannot find web element located by 'By.xpath: //tr[@class='heading3']/td[contains(normalize-space(),'Manger Id')]'. Root cause: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=116.0.1938.62)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [a14841cf3a060506a7b9bf217076949d, findElement {using=xpath, value=//tr[@class='heading3']/td[contains(normalize-space(),'Manger Id')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 116.0.1938.62, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56948}, msedge: {msedgedriverVersion: 116.0.1938.62 (493f2197e519..., userDataDir: C:\Users\tieuh\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56948/devtoo..., se:cdpVersion: 116.0.1938.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a14841cf3a060506a7b9bf217076949d
